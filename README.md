@@ -1,16 +1,31 @@
-build-name-setter.jpi£ºÉèÖÃÃ¿´ÎbuildµÄÃû×ÖºÍÃèÊö
-conditional-buildstep.jpi£ºifÌõ¼ş¿ØÖÆÁ÷³Ì
-envinject.jpi£ºÉèÖÃ»·¾³±äÁ¿
-htmlpublisher.jpi£º·¢²¼HtmlÒ³Ãæ±¨¸æ
-jobConfigHistory.jpi£ºÅäÖÃJobµÄ¼ÇÂ¼ÀúÊ·
-persistent-parameter.jpi£ºË½ÓĞµÄ±äÁ¿£¬Ã¿´Î»á±£´æÉÏ´ÎµÄÉèÖÃ
-publish-over-ftp.jpi£ºÉÏ´«FTP
-role-strategy.jpi£ºÕËºÅÈ¨ÏŞ¹ÜÀí
-subversion.jpi£ºsvnÔ´Âë¹ÜÀí
-timestamper.jpi£º¿ØÖÆÌ¨´òÓ¡Ê±¼ä
-unity3d-plugin.jpi£ºunity3dÃüÁîĞĞ
-preSCMbuildstep.hpi£ºÔÚbuild¿ªÊ¼Ö®Ç°Ìí¼Ó²Ù×÷²½Öè
-file-operations.jpi£ºÎÄ¼ş²Ù×÷
-jenkins-multijob-plugin.hpi£º¶àÈÎÎñÁ÷³Ì
-parameterized-trigger.hpi£º´¥·¢±ğµÄJob²¢Ìí¼Ó²ÎÊı
-copy-to-slave.hpi£º¿½±´MasterÎÄ¼şµ½Slave·şÎñÆ÷
+build-name-setter.jpiï¼šè®¾ç½®æ¯æ¬¡buildçš„åå­—å’Œæè¿°
+
+conditional-buildstep.jpiï¼šifæ¡ä»¶æ§åˆ¶æµç¨‹
+
+envinject.jpiï¼šè®¾ç½®ç¯å¢ƒå˜é‡
+
+htmlpublisher.jpiï¼šå‘å¸ƒHtmlé¡µé¢æŠ¥å‘Š
+
+jobConfigHistory.jpiï¼šé…ç½®Jobçš„è®°å½•å†å²
+
+persistent-parameter.jpiï¼šç§æœ‰çš„å˜é‡ï¼Œæ¯æ¬¡ä¼šä¿å­˜ä¸Šæ¬¡çš„è®¾ç½®
+
+publish-over-ftp.jpiï¼šä¸Šä¼ FTP
+
+role-strategy.jpiï¼šè´¦å·æƒé™ç®¡ç†
+
+subversion.jpiï¼šsvnæºç ç®¡ç†
+
+timestamper.jpiï¼šæ§åˆ¶å°æ‰“å°æ—¶é—´
+
+unity3d-plugin.jpiï¼šunity3då‘½ä»¤è¡Œ
+
+preSCMbuildstep.hpiï¼šåœ¨buildå¼€å§‹ä¹‹å‰æ·»åŠ æ“ä½œæ­¥éª¤
+
+file-operations.jpiï¼šæ–‡ä»¶æ“ä½œ
+
+jenkins-multijob-plugin.hpiï¼šå¤šä»»åŠ¡æµç¨‹
+
+parameterized-trigger.hpiï¼šè§¦å‘åˆ«çš„Jobå¹¶æ·»åŠ å‚æ•°
+
+copy-to-slave.hpiï¼šæ‹·è´Masteræ–‡ä»¶åˆ°SlaveæœåŠ¡å™¨
