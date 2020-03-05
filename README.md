@@ -29,3 +29,5 @@ jenkins-multijob-plugin.hpi：多任务流程
 parameterized-trigger.hpi：触发别的Job并添加参数
 
 copy-to-slave.hpi：拷贝Master文件到Slave服务器
+
+build-blocker-plugin.jpi：限制多个Job之间互斥排队进行
