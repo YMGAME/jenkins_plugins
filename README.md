@@ -1,3 +1,5 @@
+国内镜像地址：http://mirrors.jenkins-ci.org/
+
 build-name-setter.jpi：设置每次build的名字和描述
 
 conditional-buildstep.jpi：if条件控制流程
