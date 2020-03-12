@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UserName</key>
+	<string>zhangxInwei</string>
+	<key>KeepAlive</key>
+	<true/>
+	<key>Label</key>
+	<string>org.jenkins-ci.slave</string>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/bin/java</string>
+		<string>-jar</string>
+		<string>/Library/LaunchAgents/agent.jar</string>
+		<string>-jnlpUrl</string>
+		<string>http://sh-zhangxw02.snda.root.corp:8080/computer/imac/slave-agent.jnlp</string>
+		<string>-secret</string>
+		<string>21388f8228fd9fae6b80f5d551587e5000fd93689ac73a4ef2815c513fd6b8f2</string>
+		<string>-workDir</string>
+		<string>/Users/zhangxinwei/Documents/jenkins</string>
+	</array>
+</dict>
+</plist>
